@@ -1,2 +1,6 @@
-print("Mars is a cat with 4 legs that likes to hide my shoes!")
-print("HI")
+print("cmd/crtl Save")
+print("Click on the branch icon")
+print("under changes click on + sign to stage")
+print("Write your commit message")
+print("Click Commit")
+print("click on 3 dots and then click push")
